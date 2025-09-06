@@ -1,17 +1,8 @@
-# Hi 👋, I'm Shashank Padmasali
+# ⚡ Shashank Padmasali
 
 **`Tech Alchemist (Backend Developer / AI Explorer / Full-Stack Creator)`**
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shashank-padmasali)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shashankpadmasale)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/shashank3115)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ShashankPadmasale)
 
-
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-padmasali)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/shashank3115)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shashank3115)
-
----
 
 ## 👨‍💻 About Me
 I am a **Computer Science graduate** passionate about building scalable backend services, full-stack web apps, and AI-powered solutions. I enjoy solving real-world problems, optimizing systems, and exploring new technologies.  
@@ -21,27 +12,31 @@ I am a **Computer Science graduate** passionate about building scalable backend 
 - 💬 Ask me about **MERN Stack, React, Vue, Node.js, AI integration, GSAP animations**  
 - ⚡ Fun fact: I mix full-stack code with a dash of AI creativity. 😄  
 
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shashank-padmasali)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/shashankpadmasale)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/shashank3115)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ShashankPadmasale)
+
 ---
 
 ## 🛠 Skills
 
 ### Programming & Frameworks
-Java | Python | JavaScript | Node.js | Express.js | React.js  
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,nodejs,expressjs,react&theme=light)](https://skillicons.dev)
+
 
 ### Databases
-MongoDB | SQL  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev) 
 
 ### Tools & Platforms
-Git | GitHub | Postman | Firebase | Docker (basic) | REST APIs  
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker,jenkins&theme=light)](https://skillicons.dev) 
 
 ### AI & Automation
-AI/ML integration | OpenAI APIs | Real-time data systems  
-
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,scikitlearn,pandas&theme=light)](https://skillicons.dev)
+ 
 ---
 
 ## 🚀 Projects
 
-### [AI-Powered Accident Detection & Emergency Alerts]
+### AI-Powered Accident Detection & Emergency Alerts
 - Real-time accident detection using CCTV and AI/ML algorithms  
 - Automated emergency alerts reducing average response time  
 
@@ -49,7 +44,7 @@ AI/ML integration | OpenAI APIs | Real-time data systems
 - AI-powered personal finance management  
 - Dynamic budgeting & financial health dashboard
    
-### **ClauseWise – Legal Tech Hackathon Project**(https://github.com/shashank3115/ClauseWise)
+### [ClauseWise - Legal Tech Hackathon Project](https://github.com/shashank3115/ClauseWise)
 - AI-powered platform to **analyze and summarize contract clauses** automatically.
 - Highlights **risky or non-compliant clauses** for quick legal review.
 
@@ -68,9 +63,12 @@ AI/ML integration | OpenAI APIs | Real-time data systems
 
 ---
 
+## stats and Activity
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank3115&show_icons=true&theme=tokyonight)
+
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/shashank-padmasali) | [GitHub](https://github.com/shashank3115) | [Medium](https://medium.com/@shashankpadmasale)
+[LinkedIn](https://linkedin.com/in/shashank-padmasali) | [GitHub](https://github.com/shashank3115) | 
 
 ---
 
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank3115&show_icons=true&theme=tokyonight)
+
