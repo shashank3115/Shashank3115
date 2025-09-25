@@ -19,8 +19,8 @@ I am a **Computer Science graduate** passionate about building scalable backend 
 
 ## 🛠 Skills
 
-### Programming & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,nodejs,expressjs,react&theme=light)](https://skillicons.dev)        ![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+### Programming & Frameworks 
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,nodejs,expressjs,react&theme=light)](https://skillicons.dev)           
 
 
 ### Databases
